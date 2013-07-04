@@ -1,4 +1,10 @@
 
+
+Disclaimer.
+-------------
+
+This is not ready yet. Come back in 2014.
+
 Why should I love JSON applets?
 -------------------------------
 
