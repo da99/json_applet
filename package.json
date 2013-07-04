@@ -1,6 +1,6 @@
 {
   "name": "json_applet",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Mini-apps in your JS web-apps.",
   "main": "lib/json_applet.js",
   "directories": {
